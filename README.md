@@ -1,5 +1,6 @@
 # YaCy
 [![Build Status](https://travis-ci.org/yacy/yacy_search_server.svg?branch=master)](https://travis-ci.org/yacy/yacy_search_server)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSebastianoPistore%2Fyacy_search_server.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FSebastianoPistore%2Fyacy_search_server?ref=badge_shield)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
@@ -45,6 +46,9 @@ and better distributed indexing performance.
 YaCy is published under the GPL v2
 The source code is inside the release package (see /source and /htroot).
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSebastianoPistore%2Fyacy_search_server.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FSebastianoPistore%2Fyacy_search_server?ref=badge_large)
 
 ## Where is the documentation?
 
